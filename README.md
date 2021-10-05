@@ -36,3 +36,9 @@ Join My Discord to see all my projects :
 ---
 
 [discord]: https://discord.gg/E3KcF737ED
+
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="MZ3HTWZU8HE3S" />
+<input type="image" src="https://panels-images.twitch.tv/panel-108951114-image-ce56e770-ae88-4e2c-b07e-b65fded45367" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/fr_FR/i/scr/pixel.gif" width="1" height="1" />
+</form>
