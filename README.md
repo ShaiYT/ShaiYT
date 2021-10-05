@@ -23,7 +23,7 @@ Join My Discord to see all my projects :
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaiYT&theme=default&locale=en" alt="ShaiYT" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shai-Dev&theme=default&locale=en" alt="Shai-Dev" /></p>
 
 ---
 
