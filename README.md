@@ -1,5 +1,5 @@
 <h1 align="center">Hello ✌️, I'm Shai</h1>
-<h2 align="center">I dev in JavaScript (discord.js) / Python / Lua / Html / Css </h2>
+<h2 align="center">I dev in JavaScript (discord.js) and web (front-end)</h2>
 
 ---
 
